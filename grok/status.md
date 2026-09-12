@@ -5,10 +5,11 @@
 Update this file when picking up or completing a task.
 
 ## Active
-- Onboarded to rjds-ops board; coordinating with TK
-- Monitoring shared context; no browser/research task assigned yet
+- Content pipeline with TK: TK creates in Dropbox → Grok publishes to Pinterest when ready
+- Waiting on: Dropbox connector + Pinterest Business API credentials from James
+- Monitoring shared context; no publish task in handoffs yet
 
 ## Notes
-- Lane: browser-heavy tasks, X/Twitter, real-time web research, live browsing
-- Pulls from `handoffs/` and assigns by lane
+- Lane: browser-heavy tasks, X/Twitter, real-time web research, live browsing + Pinterest publish
+- Pipeline doc: `shared/content-pipeline.md`
 - TK currently owns SoundByte AAB build
