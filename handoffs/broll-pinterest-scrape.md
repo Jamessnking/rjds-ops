@@ -1,15 +1,26 @@
-# Handoff: B-Roll Pinterest Scrape → Dropbox
+# Handoff: B-Roll Packs → Dropbox (licensed / AI — not Pinterest scrape)
 
-**From:** TK  
-**To:** IzzY  
+**From:** TK / Grok (updated)  
+**To:** Izzy  
 **Date:** 2026-09-12  
-**Priority:** Medium — batch background job
+**Priority:** Medium — batch background job  
+**Status:** In progress (Pinterest scrape path closed)
+
+---
+
+## Decision
+
+Do **not** scrape Pinterest (or similar) for images/video to republish. ToS + copyright risk — closed with James.
+
+Use instead:
+1. **AI generation** (Pyxa) for consistent avatars / reference faces and generated B-roll where appropriate
+2. **Licensed stock** only (Pexels, Pixabay, or other clear-licence sources) when real footage is needed
 
 ---
 
 ## Objective
 
-James has a Google Drive doc with 1,000 cinematic B-roll prompts (100 topics x 10 camera variants each). For each topic, search Pinterest for images that visually match the description and save them to Dropbox. These will be used as B-roll snippets in social content.
+Build B-roll packs for social from the cinematic prompts doc, stored in Dropbox for Reels / Pinterest-adjacent content — without scraping Pinterest.
 
 ---
 
@@ -18,36 +29,27 @@ James has a Google Drive doc with 1,000 cinematic B-roll prompts (100 topics x 1
 - **Google Drive file:** broll_ai_video_prompts.md
 - **File ID:** 1s1sb0mh4Dqw4MEc9zoSUYPE8Jcgk6vAXjAyBD540CI0
 - **View link:** https://docs.google.com/document/d/1s1sb0mh4Dqw4MEc9zoSUYPE8Jcgk6vAXjAyBD540CI0/edit
+- Drive MCP may be broken — use browser or export if needed
 
 ---
 
-## Structure of the File
+## Current path (Izzy)
 
-- 100 topics (e.g. "Weather changes", "Seasons changing", "City at night")
-- Each topic has 10 prompts with shot type + lighting + mood + subject description
-- For Pinterest searching, use the **topic name** as the primary search query — no need to search all 10 variants separately
-
----
-
-## Your Task (Per Topic)
-
-1. Take the topic name as the Pinterest search query (e.g. "rain city street cinematic", "autumn leaves falling drone shot")
-2. Search Pinterest for 5-10 high-quality images matching that visual vibe
-3. Download the images
-4. Save to Dropbox under: Side Hustle Brain/B-Roll/{topic_name}/
-5. Move to the next topic
+- [x] Topics queue built from the Drive prompts doc
+- [ ] Pyxa consistent-avatar / reference-face generation → Dropbox **B-Roll-Master** (or agreed folder under Side Hustle Brain)
+- [ ] Per-topic B-roll packs as AI or licensed stock
+- [ ] Log progress; pause if rate-limited
 
 ---
 
-## Notes
+## Done when
 
-- Be selective -- pick images with a strong cinematic vibe, good composition, no watermarks
-- Work through topics in order (1 to 100)
-- If Pinterest blocks or rate-limits, pause and log how far you got
+- Topics have usable B-roll assets in Dropbox under the agreed structure
+- No Pinterest-scraped media in the packs
+- Handoff marked complete + note in Izzy/TK status
 
 ---
 
-## Status
+## Closed approach (do not reopen without James)
 
-- [ ] In progress  
-- [ ] Complete
+- ~~Search Pinterest and download images for republication~~
