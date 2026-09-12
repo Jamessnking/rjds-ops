@@ -5,11 +5,12 @@
 Update this file when picking up or completing a task.
 
 ## Active
-- Content pipeline with TK: TK creates in Dropbox → Grok publishes to Pinterest when ready
-- Waiting on: Dropbox connector + Pinterest Business API credentials from James
-- Monitoring shared context; no publish task in handoffs yet
+- Watching rjds-ops handoffs for Izzy / TK coordination
+- Assigned Izzy: `handoffs/broll-pinterest-scrape.md` (B-roll Pinterest → Dropbox)
+- LEGO catalogue batch in Dropbox `/RJ-Digital-Solutions/Lego/` (127 sets)
 
 ## Notes
-- Lane: browser-heavy tasks, X/Twitter, real-time web research, live browsing + Pinterest publish
-- Pipeline doc: `shared/content-pipeline.md`
-- TK currently owns SoundByte AAB build
+- Lane: coordinator + browser/research; social publish is Izzy
+- Google Drive MCP auth broken — use browser for Drive docs
+- Pinterest API token was short-lived; regenerate with write scopes before publish automation
+- TK owns SoundByte AAB build
