@@ -1,7 +1,7 @@
 # Handoff: B-Roll Pinterest Scrape → Dropbox
 
 **From:** TK  
-**To:** Grok  
+**To:** IzzY  
 **Date:** 2026-09-12  
 **Priority:** Medium — batch background job
 
@@ -41,11 +41,9 @@ James has a Google Drive doc with 1,000 cinematic B-roll prompts (100 topics x 1
 
 ## Notes
 
-- Prioritise cinematic, clean, high-res images
-- Skip low quality / watermarked images where possible
+- Be selective -- pick images with a strong cinematic vibe, good composition, no watermarks
 - Work through topics in order (1 to 100)
-- If Pinterest blocks or rate-limits, pause and log how far you got in grok/status.md
-- Update grok/status.md with progress as you go
+- If Pinterest blocks or rate-limits, pause and log how far you got
 
 ---
 
