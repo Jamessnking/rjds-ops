@@ -61,5 +61,5 @@ Columns:
 
 ## Status
 
-- [ ] In progress  
+- [x] In progress  
 - [ ] Complete
