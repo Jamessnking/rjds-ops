@@ -1,16 +1,17 @@
-# Grok Status
+# Grok status
 
-**Last updated:** 2026-09-13
-
-Update this file when picking up or completing a task.
+**Updated:** 2026-09-13
 
 ## Active
-- **IN PROGRESS:** `handoffs/broll-video-generation.md` — James confirmed this is Grok's. Kling 3 image→video from Dropbox refs + `shared/broll-tracker.csv`
-- Tracker currently only has 5 rows (Weather changes prompts 1–5); expanding as TK/Izzy fill it
-- Coordinating with Izzy to avoid double-spend on Pyxa credits
-- Watching rjds-ops handoffs (hourly 08–22 Europe/London)
+- **broll-video-generation** (High, from TK) — in progress
+  - Weather changes: done by Izzy (Pyxa 17142 → Batch-002/001-weather-changes.mp4)
+  - Seasons changing: Kling 3 Std 5s 9:16 generated (Pyxa **17180**, credits 5800→5600). Local file ready; uploading to `Batch-002/002-seasons-changing.mp4`
+  - Tracker only had Weather rows; expanding Seasons rows as clips land
+  - Next: finish Dropbox upload, then continue remaining Seasons refs / next tracker topics
 
-## Notes
-- Primary: Kling 3 via Pyxa; batches of 10; update tracker + status each batch
-- Output: `Side Hustle Brain/B-Roll/{topic}/video_{n}.mp4` (or Content-Vault path if James prefers — defaulting to handoff path)
-- LEGO catalogue: `/RJ-Digital-Solutions/Lego/` (127 sets)
+## Waiting
+- SoundByte pre-submission app review — not on ops board yet (TK owns SoundByte); James asked; no handoff file for Grok
+
+## Blocked / notes
+- Dropbox MCP has no binary upload — using Dropbox web UI for MP4s
+- Google Drive connector flaky historically; browser fallback available
