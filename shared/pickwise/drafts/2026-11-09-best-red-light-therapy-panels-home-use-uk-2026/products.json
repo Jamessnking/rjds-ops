@@ -1,0 +1,445 @@
+[
+  {
+    "rank": 1,
+    "badge": "Editor's Choice · Best Overall",
+    "brand": "Hooga",
+    "name": "Hooga ULTRA360",
+    "asin": "B0CGC8HB5P",
+    "image": "01-hooga-ultra360.jpg",
+    "image_source_url": "https://cdn.shopify.com/s/files/1/0075/2923/4522/files/360_2.jpg?v=1775589774",
+    "image_page": "https://hoogahealth.com/products/ultra-360",
+    "image_origin": "manufacturer",
+    "short_review": "The most fully specified compact panel in this round-up. Every one of its 72 LEDs carries four chips (630, 660, 810 and 850 nm), and Hooga publishes a full irradiance-by-distance table rather than a single headline number. Touchscreen controls let you set red and near-infrared brightness separately, plus a 1–30 minute timer and pulse mode. It sits on a tabletop stand and is sized for face, neck, shoulders and joints rather than whole-body sessions. It leads this list on published specs, its three-year warranty and a solid Amazon.co.uk review base (4.6★ from 182 ratings on 9 Nov 2026).",
+    "specs": {
+      "Wavelengths": "630 / 660 nm red + 810 / 850 nm NIR (quad-chip)",
+      "LEDs": "72 × 5W",
+      "Published irradiance": "136 mW/cm² at 6\" · 104 mW/cm² at 12\" (manufacturer)",
+      "Coverage": "approx. 18\" × 13\" at 6\" (manufacturer)",
+      "Controls": "Touchscreen, independent red/NIR brightness, 1–30 min timer, pulse",
+      "Warranty": "3 years (manufacturer)"
+    },
+    "pros": [
+      "Four wavelengths from every LED",
+      "Detailed, distance-by-distance irradiance published",
+      "Independent red and NIR brightness control"
+    ],
+    "cons": [
+      "Targeted size, not a full-body panel",
+      "Tabletop use only; will not attach to Hooga mobile stands"
+    ],
+    "sources": [
+      "https://hoogahealth.com/products/ultra-360",
+      "https://www.amazon.co.uk/dp/B0CGC8HB5P"
+    ],
+    "amazon_url": "https://www.amazon.co.uk/dp/B0CGC8HB5P",
+    "link_type": "dp",
+    "amazon_verification": {
+      "checked_at_utc": "2026-11-09T08:17:14.895547+00:00",
+      "http_status": 200,
+      "amazon_product_title": "Hooga Red Light Therapy, Red Near Infrared LED Panel, 72 Quad Chip Flicker Free LEDs, Ultra Series, Clinical Grade Device for Energy, Pain, Skin, Recovery, Sleep, Performance. ULTRA360.",
+      "title_matches_model": true,
+      "tag_param_present": false,
+      "amazon_rating_seen": "4.6 out of 5 stars",
+      "amazon_rating_count_seen": "(182)"
+    }
+  },
+  {
+    "rank": 2,
+    "badge": "Best Large Panel from a UK Company",
+    "brand": "Nebula",
+    "name": "Nebula NB600 600W Red Light Therapy Panel",
+    "asin": "B0C3CYBWNP",
+    "image": "02-nebula-nb600-600w.jpg",
+    "image_source_url": "https://nebula-appliances.com/wp-content/uploads/2023/04/Nebula-LED-Red-Light-Therapy-Device-600W-2.jpg",
+    "image_page": "https://nebula-appliances.com/product/nebula-led-red-light-therapy-lamp-600w",
+    "image_origin": "manufacturer",
+    "short_review": "If you want more than a face-and-shoulders panel, this is the bigger option here from a UK company (Vipertech Ltd, Peterborough). At 62 × 21 cm with 120 dual-chip LEDs it covers a much taller area in one session, and separate red and NIR switches let you run either or both. Nebula's UK manual quotes above 101 mW/cm² at 6\" and 67 mW/cm² at 12\". The trade-off: owner reviews on Nebula's own site point out there is no built-in timer, so you will need a plug timer or a phone alarm.",
+    "specs": {
+      "Wavelengths": "660 nm red + 850 nm NIR (dual-chip)",
+      "LEDs": "120 × 5W dual-chip",
+      "Published irradiance": ">101 mW/cm² at 6\" · >67 mW/cm² at 12\" (NB600 manual)",
+      "Size / weight": "62 × 21 × 6.5 cm · 4 kg",
+      "Controls": "Separate RED / NIR switches",
+      "Warranty": "1 year + 1 year free extension (manufacturer)"
+    },
+    "pros": [
+      "Tall panel for torso or legs in one go",
+      "UK-based company and support",
+      "Door hanger and pulley kit included; trolley optional"
+    ],
+    "cons": [
+      "No built-in timer (per owner feedback on Nebula's site)",
+      "Heavier and harder to tuck away than a 300W panel"
+    ],
+    "sources": [
+      "https://nebula-appliances.com/product/nebula-led-red-light-therapy-lamp-600w",
+      "https://nebula-appliances.com/wp-content/uploads/2023/04/RED-LIGHT-NEBULA-NB300-600-MANUAL_UK.pdf",
+      "https://www.amazon.co.uk/dp/B0C3CYBWNP"
+    ],
+    "amazon_url": "https://www.amazon.co.uk/dp/B0C3CYBWNP",
+    "link_type": "dp",
+    "amazon_verification": {
+      "checked_at_utc": "2026-11-09T08:17:14.895547+00:00",
+      "http_status": 200,
+      "amazon_product_title": "Nebula 600W Red & Near Infrared Light Therapy Device - 120 660/850nm LEDs",
+      "title_matches_model": true,
+      "tag_param_present": false,
+      "amazon_rating_seen": "4.4 out of 5 stars",
+      "amazon_rating_count_seen": "(184)"
+    }
+  },
+  {
+    "rank": 3,
+    "badge": "Best Value · UK Brand",
+    "brand": "ThermoLab",
+    "name": "ThermoLab Aura Pro 300W",
+    "asin": "B0DQKT4GGH",
+    "image": "03-thermolab-aura-pro-300w.png",
+    "image_source_url": "https://cdn.shopify.com/s/files/1/0760/2926/4188/files/infrared_ligght.png?v=1792218461",
+    "image_page": "https://thethermolab.com/products/thermolab-aura-pro-300w",
+    "image_origin": "manufacturer",
+    "short_review": "A UK-designed, UK-stocked 300W-class panel that is also sold through B&Q's marketplace. That is a useful signal for buyers who want a UK returns route. ThermoLab includes a door and wall suspension kit plus blackout goggles, uses a UK 3-pin cable and backs the panel with a three-year UK warranty. On 9 Nov 2026 it had the highest Amazon.co.uk rating of any panel in this round-up (4.7★, 97 ratings). As with every \"300W\" panel, that figure describes electrical rating, not light output.",
+    "specs": {
+      "Wavelengths": "660 nm red + 850 nm NIR",
+      "LEDs": "60",
+      "Published irradiance": ">120 mW/cm² at 6\" · >85 mW/cm² at 12\" (manufacturer)",
+      "Size": "approx. 26 × 21 cm (manufacturer)",
+      "In the box": "Suspension kit (door/wall), blackout goggles, UK 3-pin cable",
+      "Warranty": "3 years UK (manufacturer)"
+    },
+    "pros": [
+      "Three-year UK warranty",
+      "Strong Amazon.co.uk rating",
+      "Also sold via B&Q (diy.com) marketplace"
+    ],
+    "cons": [
+      "Two wavelengths only",
+      "Simple controls, no app or pulse modes"
+    ],
+    "sources": [
+      "https://thethermolab.com/products/thermolab-aura-pro-300w",
+      "https://www.diy.com/departments/thermolab-aura-pro-300w-infrared-led-light-panel/5065016590018_BQ.prd",
+      "https://www.amazon.co.uk/dp/B0DQKT4GGH"
+    ],
+    "amazon_url": "https://www.amazon.co.uk/dp/B0DQKT4GGH",
+    "link_type": "dp",
+    "amazon_verification": {
+      "checked_at_utc": "2026-11-09T08:17:14.895547+00:00",
+      "http_status": 200,
+      "amazon_product_title": "ThermoLab Aura™ 300W Red Light Therapy Panel 660nm 850nm Near Infrared",
+      "title_matches_model": true,
+      "tag_param_present": false,
+      "amazon_rating_seen": "4.7 out of 5 stars",
+      "amazon_rating_count_seen": "(97)"
+    }
+  },
+  {
+    "rank": 4,
+    "badge": "Best for Taller Coverage",
+    "brand": "Kala",
+    "name": "Kala Red Light Pro Panel",
+    "asin": "B0CKTV1YF1",
+    "image": "04-kala-red-light-pro-panel.png",
+    "image_source_url": "https://cdn.shopify.com/s/files/1/0484/5430/3893/files/KALA_-_PDP_-_Pro_-_2_5f7bafe4-a17f-4c63-9547-cabe78510a5d.png?v=1793012824",
+    "image_page": "https://kalaredlight.com/products/kala-red-light-pro-panel",
+    "image_origin": "manufacturer",
+    "short_review": "A Canadian brand that has built UK distribution through wellness retailers including Healf and The Wellness London. The Pro Panel uses 85 LEDs at 660 nm and 850 nm (138W, per Kala), stands on its own built-in stand and adds a digital display with 10/15/20-minute timers and Kala's Pulse Recovery+ frequency modes. It is a step up in size from the 300W-class panels below. Prices differ a lot between Amazon.co.uk and UK retailers, so check before you buy.",
+    "specs": {
+      "Wavelengths": "660 nm red + 850 nm NIR",
+      "LEDs": "85 (138W, manufacturer)",
+      "Controls": "Digital display, 10/15/20 min timer, Pulse Recovery+ modes",
+      "Stand": "Built-in stand; door hanging kit available",
+      "UK retail": "Healf, The Wellness London, Amazon.co.uk"
+    },
+    "pros": [
+      "Larger half-body format",
+      "Built-in stand plus pulse modes",
+      "Stocked by established UK wellness retailers"
+    ],
+    "cons": [
+      "Kala publishes less distance-by-distance irradiance data than Hooga or Nebula",
+      "Amazon and retailer prices vary widely"
+    ],
+    "sources": [
+      "https://kalaredlight.com/products/kala-red-light-pro-panel",
+      "https://healf.com/en-uk/products/kala-red-light-therapy-pro-panel",
+      "https://www.amazon.co.uk/dp/B0CKTV1YF1"
+    ],
+    "amazon_url": "https://www.amazon.co.uk/dp/B0CKTV1YF1",
+    "link_type": "dp",
+    "amazon_verification": {
+      "checked_at_utc": "2026-11-09T08:17:14.895547+00:00",
+      "http_status": 200,
+      "amazon_product_title": "Kala Red Light Pro Panel | North America's #1 Half-Body Red Light Device with Built-in Stand | LED Display | Multi Wavelength Technology (Red/NIR) | 50,000+ Lifetime Hours | As Seen on Dragon's Den",
+      "title_matches_model": true,
+      "tag_param_present": false,
+      "amazon_rating_seen": "4.6 out of 5 stars",
+      "amazon_rating_count_seen": "(39)"
+    }
+  },
+  {
+    "rank": 5,
+    "badge": "Best Targeted Panel with Stand",
+    "brand": "Hooga",
+    "name": "Hooga PRO300",
+    "asin": "B0CX6VQQHS",
+    "image": "05-hooga-pro300.jpg",
+    "image_source_url": "https://cdn.shopify.com/s/files/1/0075/2923/4522/files/PRO300MainImageUpdatedJune2024.jpg?v=1718812433",
+    "image_page": "https://hoogahealth.com/products/hgpro300",
+    "image_origin": "manufacturer",
+    "short_review": "Hooga calls this its most popular panel, and it is the simpler sibling of the ULTRA360. You get 60 dual-chip LEDs with 660 nm and 850 nm from every LED (no 630/810 nm), a published 109 mW/cm² at 6\", a digital timer, a carry handle and an adjustable tabletop stand in the box. Choose it over the ULTRA360 if you don't need four wavelengths or independent brightness control. It has the same three-year warranty.",
+    "specs": {
+      "Wavelengths": "660 nm red + 850 nm NIR (dual-chip, 1:1)",
+      "LEDs": "60 × dual-chip 5W",
+      "Published irradiance": "109 mW/cm² at 6\" (manufacturer)",
+      "Size": "12.7\" × 8.6\" × 3.1\"",
+      "Extras": "Adjustable stand, digital timer, cooling fan, 60° beam",
+      "Warranty": "3 years (manufacturer)"
+    },
+    "pros": [
+      "Dual-chip LEDs give even red/NIR coverage",
+      "Stand included",
+      "Same 3-year warranty as Hooga's premium line"
+    ],
+    "cons": [
+      "Small Amazon.co.uk review base (14 ratings on 9 Nov 2026)",
+      "No pulse or brightness control"
+    ],
+    "sources": [
+      "https://hoogahealth.com/products/hgpro300",
+      "https://www.amazon.co.uk/dp/B0CX6VQQHS"
+    ],
+    "amazon_url": "https://www.amazon.co.uk/dp/B0CX6VQQHS",
+    "link_type": "dp",
+    "amazon_verification": {
+      "checked_at_utc": "2026-11-09T08:17:14.895547+00:00",
+      "http_status": 200,
+      "amazon_product_title": "Hooga Red Light Therapy 660nm 850nm Red Near Infrared, Dual Chip Flicker Free LEDs, PRO Series, Adjustable Stand, 60 LEDs, Clinical Grade for Energy, Pain, Recovery, Performance. HGPRO300.",
+      "title_matches_model": true,
+      "tag_param_present": false,
+      "amazon_rating_seen": "4.6 out of 5 stars",
+      "amazon_rating_count_seen": "(14)"
+    }
+  },
+  {
+    "rank": 6,
+    "badge": "Most Transparent Specs",
+    "brand": "Inthered",
+    "name": "Inthered ITR-EVO 300W",
+    "asin": "B0GNNQQZ8V",
+    "image": "06-inthered-itr-evo.png",
+    "image_source_url": "https://cdn.shopify.com/s/files/1/1006/7850/0687/files/1_a74c126c-073f-45ec-b401-1adad59bdfaf.png?v=1782987624",
+    "image_page": "https://getinthered.com/products/itr-evo",
+    "image_origin": "manufacturer",
+    "short_review": "A newer UK-supported brand that focuses on proof. Inthered says its >156 mW/cm² figure is measured at the panel surface and checked by an independent third party, and it publishes a safety and quality report. In practice you get 60 dual-chip LEDs behind 30° lenses, an aluminium body, touchscreen modes (red, NIR or both), four brightness steps, 10/20/40 Hz pulse and a 5–30 minute auto-off timer. It ranks mid-table only because it is new: four Amazon.co.uk ratings on 9 Nov 2026.",
+    "specs": {
+      "Wavelengths": "660 nm red + 850 nm NIR (dual-chip, 1:1)",
+      "LEDs": "60, 30° lenses",
+      "Published irradiance": ">156 mW/cm² at surface (third-party verified, per manufacturer)",
+      "Size": "21 × 32 cm",
+      "Controls": "Touchscreen; 25–100% brightness; 10/20/40 Hz pulse; 5–30 min timer",
+      "Warranty": "1 year (manufacturer)"
+    },
+    "pros": [
+      "Irradiance measurement method stated plainly",
+      "Full touchscreen controls including pulse",
+      "Goggles, door hanger and pulley kit included"
+    ],
+    "cons": [
+      "Very few reviews yet",
+      "Shorter 1-year warranty than most panels here"
+    ],
+    "sources": [
+      "https://getinthered.com/products/itr-evo",
+      "https://www.amazon.co.uk/dp/B0GNNQQZ8V"
+    ],
+    "amazon_url": "https://www.amazon.co.uk/dp/B0GNNQQZ8V",
+    "link_type": "dp",
+    "amazon_verification": {
+      "checked_at_utc": "2026-11-09T08:17:14.895547+00:00",
+      "http_status": 200,
+      "amazon_product_title": "Inthered® ITR-EVO 300W Dual-Chip Red Light Therapy Panel | 660nm & 850nm Red & Near-Infrared Light, Third-Party Verified Wavelengths, Fully Adjustable Touchscreen Controls, Free Getting Started Kit",
+      "title_matches_model": true,
+      "tag_param_present": false,
+      "amazon_rating_seen": "4.2 out of 5 stars",
+      "amazon_rating_count_seen": "(4)"
+    }
+  },
+  {
+    "rank": 7,
+    "badge": "Best Compact All-Rounder",
+    "brand": "Nebula",
+    "name": "Nebula NB300 300W Red Light Therapy Panel",
+    "asin": "B0B2X3Z77V",
+    "image": "07-nebula-nb300-300w.jpg",
+    "image_source_url": "https://nebula-appliances.com/wp-content/uploads/2022/10/Nebula-LED-Red-Light-Therapy-Device-main.jpg",
+    "image_page": "https://nebula-appliances.com/product/nebula-led-red-light-device-300w",
+    "image_origin": "manufacturer",
+    "short_review": "The compact version of our #2 pick, and the most complete kit in the box at this size. Nebula ships a foldable tabletop stand, a door bracket, a wire hanging kit, rope hangers, goggles and a UK mains cable, and it has a built-in timer, which the NB600 lacks. Nebula quotes over 122 mW/cm² at 6\". It is a sensible first panel if you mainly want face and upper-body sessions.",
+    "specs": {
+      "Wavelengths": "660 nm red + 850 nm NIR (dual-chip)",
+      "LEDs": "60 × 5W dual-chip",
+      "Published irradiance": ">122 mW/cm² at 6\" · 89 mW/cm² at 12\" (manufacturer)",
+      "Size": "26 × 21 × 7 cm (manufacturer)",
+      "Controls": "Separate RED / NIR switches, built-in timer",
+      "Warranty": "1 year + 1 year free extension (manufacturer)"
+    },
+    "pros": [
+      "Stand plus three hanging options in the box",
+      "Built-in timer",
+      "UK company and support"
+    ],
+    "cons": [
+      "Face and upper-body size only",
+      "Two wavelengths, no pulse"
+    ],
+    "sources": [
+      "https://nebula-appliances.com/product/nebula-led-red-light-device-300w",
+      "https://www.amazon.co.uk/dp/B0B2X3Z77V"
+    ],
+    "amazon_url": "https://www.amazon.co.uk/dp/B0B2X3Z77V",
+    "link_type": "dp",
+    "amazon_verification": {
+      "checked_at_utc": "2026-11-09T08:17:14.895547+00:00",
+      "http_status": 200,
+      "amazon_product_title": "Nebula Red Light Therapy Panel 300W, 660nm & 850nm Near Infrared, 60 LEDs",
+      "title_matches_model": true,
+      "tag_param_present": false,
+      "amazon_rating_seen": "4.4 out of 5 stars",
+      "amazon_rating_count_seen": "(184)"
+    }
+  },
+  {
+    "rank": 8,
+    "badge": "Best Simple Touch Controls",
+    "brand": "BestQool",
+    "name": "BestQool BQ60 (105W)",
+    "asin": "B0HFK55XH7",
+    "image": "08-bestqool-bq60-105w.png",
+    "image_source_url": "https://cdn.shopify.com/s/files/1/0348/5951/5949/files/BQ60_6e770db5-52a8-4c0d-8536-324867ce3747.png?v=1790235182",
+    "image_page": "https://www.bestqool.com/products/red-light-therapy-bq60",
+    "image_origin": "manufacturer",
+    "short_review": "BestQool is one of the more established panel makers, and the BQ60 is part of its Original Series: 60 dual-chip LEDs, a digital timer and three modes (660 nm, 850 nm or both). The Amazon.co.uk listing quotes up to 95.6 mW/cm² at 3\" and includes a U-shaped stand, door hook and hanging cord. BestQool's irradiance is quoted at 3\" while most rivals quote 6\", so don't compare the headline numbers directly.",
+    "specs": {
+      "Wavelengths": "660 nm red + 850 nm NIR",
+      "LEDs": "60 dual-chip",
+      "Published irradiance": "up to 95.6 mW/cm² at 3\" (Amazon listing)",
+      "Rated power": "105W",
+      "Size / weight": "13.1 × 8.4 × 2.1 in · 2.2 kg (manufacturer)",
+      "Mounting": "U-shaped stand, door hook, hanging cord"
+    },
+    "pros": [
+      "Easy touch controls with three modes",
+      "Stand and hanging kit included",
+      "Established brand"
+    ],
+    "cons": [
+      "Lower published irradiance than others here (and at a closer distance)",
+      "New UK listing with a modest review count"
+    ],
+    "sources": [
+      "https://www.bestqool.com/products/red-light-therapy-bq60",
+      "https://www.amazon.co.uk/dp/B0HFK55XH7"
+    ],
+    "amazon_url": "https://www.amazon.co.uk/dp/B0HFK55XH7",
+    "link_type": "dp",
+    "amazon_verification": {
+      "checked_at_utc": "2026-11-09T08:17:14.895547+00:00",
+      "http_status": 200,
+      "amazon_product_title": "BestQool Red Light Panel, 660nm 850nm Red and Infrared Light Device, 105W",
+      "title_matches_model": true,
+      "tag_param_present": false,
+      "amazon_rating_seen": "4.6 out of 5 stars",
+      "amazon_rating_count_seen": "(25)"
+    }
+  },
+  {
+    "rank": 9,
+    "badge": "Best Known-Brand Budget Pick",
+    "brand": "RENPHO",
+    "name": "RENPHO 70-LED Red Light Therapy Panel",
+    "asin": "B0H25WL8CR",
+    "image": "09-renpho-70-led-panel.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71ROq6CIWwL._AC_SL1500_.jpg",
+    "image_page": "https://www.amazon.co.uk/dp/B0H25WL8CR",
+    "image_origin": "amazon_listing (cropped to product)",
+    "short_review": "RENPHO is a familiar name from bathroom scales and massagers, and this tablet-sized panel is its first broad push into red light therapy on Amazon.co.uk. It packs 70 dual-chip LEDs (660/850 nm, 1:1) with single or combined modes, a built-in fold-out stand, a sling for drill-free door hanging, a six-setting timer and a cooling fan. RENPHO's 180 mW/cm² figure is measured at point-blank range, so treat it as a best case.",
+    "specs": {
+      "Wavelengths": "660 nm red + 850 nm NIR (dual-chip, 1:1)",
+      "LEDs": "70 × 5W dual-chip",
+      "Published irradiance": "180 mW/cm² at point-blank (Amazon listing)",
+      "Stand": "Built-in foldable stand + door sling",
+      "Timer": "6 settings",
+      "Cooling": "Internal fan"
+    },
+    "pros": [
+      "Built-in stand, no extra brackets",
+      "Known consumer brand with UK support",
+      "Light enough to move between rooms"
+    ],
+    "cons": [
+      "Irradiance quoted at zero distance only",
+      "Young listing (11 ratings on 9 Nov 2026)"
+    ],
+    "sources": [
+      "https://www.amazon.co.uk/dp/B0H25WL8CR",
+      "https://manuals.plus/renpho/qb70-m-red-light-panel-manual"
+    ],
+    "amazon_url": "https://www.amazon.co.uk/dp/B0H25WL8CR",
+    "link_type": "dp",
+    "amazon_verification": {
+      "checked_at_utc": "2026-11-09T08:17:14.895547+00:00",
+      "http_status": 200,
+      "amazon_product_title": "RENPHO 70 LEDs Red Light Therapy, Gifts for Women Red Near Infrared Panel",
+      "title_matches_model": true,
+      "tag_param_present": false,
+      "amazon_rating_seen": "4.6 out of 5 stars",
+      "amazon_rating_count_seen": "(11)"
+    }
+  },
+  {
+    "rank": 10,
+    "badge": "Best Cordless / Travel",
+    "brand": "Ocushield",
+    "name": "Ocushield Ocuglow Portable Red & Infrared Panel",
+    "asin": "B0H988LLP6",
+    "image": "10-ocushield-ocuglow.jpg",
+    "image_source_url": "https://cdn.shopify.com/s/files/1/0456/7983/7343/files/ocuglow-red-light-therapy_735ef715-d69f-4a7a-ba67-ebbb2d189df2.jpg?v=1794017013",
+    "image_page": "https://www.ocushield.com/products/portable-red-light-therapy-panel-by-ocushield",
+    "image_origin": "manufacturer",
+    "short_review": "This is the only cordless option here, from UK brand Ocushield, a certified B-Corp founded by eye-care professionals that appeared on BBC Dragons' Den in 2021. It is a small 12-LED unit (630/660 nm red, 830/850 nm NIR) with an 8,000 mAh battery and a timer, designed for face, eye-area and spot sessions at 15–30 cm. It is far less powerful and covers far less than a mains panel. Buy it for portability, not coverage.",
+    "specs": {
+      "Wavelengths": "630 / 660 nm red + 830 / 850 nm NIR",
+      "LEDs": "12",
+      "Published irradiance": "130+ mW/cm² at 7.6 cm (distributor data sheet)",
+      "Battery": "8,000 mAh, cordless",
+      "Size / weight": "150 × 95 × 38 mm · 0.55 kg",
+      "Regulatory note": "Brand states FDA-registered Class I device (registration is not FDA approval)"
+    },
+    "pros": [
+      "Cordless and light",
+      "UK brand with eye-care background",
+      "Eye protection included"
+    ],
+    "cons": [
+      "Small treatment area",
+      "No Amazon.co.uk reviews yet (9 Nov 2026)"
+    ],
+    "sources": [
+      "https://www.ocushield.com/products/portable-red-light-therapy-panel-by-ocushield",
+      "https://www.bio-energy.ch/en/product/ocuglow/",
+      "https://www.amazon.co.uk/dp/B0H988LLP6"
+    ],
+    "amazon_url": "https://www.amazon.co.uk/dp/B0H988LLP6",
+    "link_type": "dp",
+    "amazon_verification": {
+      "checked_at_utc": "2026-11-09T08:17:14.895547+00:00",
+      "http_status": 200,
+      "amazon_product_title": "Red Light Therapy, Portable Red and Infrared Light Panel by Ocushield",
+      "title_matches_model": true,
+      "tag_param_present": false,
+      "amazon_rating_seen": null,
+      "amazon_rating_count_seen": null
+    }
+  }
+]
