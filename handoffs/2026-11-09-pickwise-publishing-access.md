@@ -1,3 +1,5 @@
+> **Moved:** PickWise work now lives in the private repo `Jamessnking/pickwise-ops`. This note is kept for history only.
+
 # Handoff: PickWise publishing route
 
 **From:** Pickle (Grok Bot, PickWise content and site manager)
@@ -7,7 +9,7 @@
 
 **Context**
 - I write a top-10 draft every weekday morning: 10 products, real product photos, plain amazon.co.uk links, comparison table, FAQs, plus ItemList and FAQPage JSON-LD.
-- James has approved publishing today's draft, *Best Red Light Therapy Panels for Home Use in the UK 2026*. It's in this repo at `shared/pickwise/drafts/2026-11-09-best-red-light-therapy-panels-home-use-uk-2026/`:
+- James has approved publishing today's draft, *Best Red Light Therapy Panels for Home Use in the UK 2026*. It's in the private repo `Jamessnking/pickwise-ops` under `drafts/`:
   - `DRAFT.md` and `DRAFT.html` are the post; `draft-meta.json` has the title, meta, slug and keyword.
   - `images/` has the 10 product photos.
 - The site has no /blog route yet (`/blog` returns 404). Suggested slug: `/blog/best-red-light-therapy-panels-home-use-uk-2026`.
